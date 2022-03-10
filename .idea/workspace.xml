@@ -80,8 +80,8 @@
       <file leaf-file-name="app-deployment.yaml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/student_persistent_volume_example/app-deployment.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="55" />
+            <state relative-caret-position="170">
+              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -104,6 +104,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -182,6 +185,7 @@
     <option name="width" value="743" />
     <option name="height" value="480" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -214,7 +218,7 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1645365654588" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/driver_calling/src/main/java/com/balabasciuc/kubernetesinaction/driver_calling" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/driver_calling" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -240,15 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.BookPersistentVolumeExampleApplication">
-    <configuration name="AsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="user-persistent-volume-example" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.as.AsApplication" />
-    </configuration>
-    <configuration name="BookPersistentVolumeExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="book-persistent-volume-example" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.balabasciuc.kubernetesinaction.bookpersistentvolumeexample.BookPersistentVolumeExampleApplication" />
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.StudentPersistentVolumeExampleApplication">
     <configuration name="CarCalledApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="car_called" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.balabasciuc.kubernetesinaction.car_called.CarCalledApplication" />
@@ -266,9 +262,7 @@
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.balabasciuc.kubernetesinaction.student_persistent_volume_example.StudentPersistentVolumeExampleApplication" />
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.BookPersistentVolumeExampleApplication" />
       <item itemvalue="Spring Boot.SimpleExampleApplication" />
-      <item itemvalue="Spring Boot.AsApplication" />
       <item itemvalue="Spring Boot.StudentPersistentVolumeExampleApplication" />
       <item itemvalue="Spring Boot.DriverCallingApplication" />
       <item itemvalue="Spring Boot.CarCalledApplication" />
@@ -356,16 +350,15 @@
       <workItem from="1646166657586" duration="8000" />
       <workItem from="1646218854852" duration="615000" />
       <workItem from="1646934646537" duration="325000" />
-      <workItem from="1646935530102" duration="1794000" />
+      <workItem from="1646935530102" duration="2176000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95046000" />
+    <option name="totallyTimeSpent" value="95428000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -376,7 +369,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32843137" />
       <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.16490166" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.35255355" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
@@ -735,8 +728,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/student_persistent_volume_example/app-deployment.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="55" />
+        <state relative-caret-position="170">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
